@@ -37,6 +37,7 @@ const AddCoffee = () => {
                         confirmButtonText: 'Confirm'
                     })
                 }
+                form.reset();
             })
     }
 
